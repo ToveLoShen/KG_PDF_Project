@@ -8,8 +8,6 @@
 
 - [knowledge_graph_skill.md](/C:/Users/asus/Desktop/KG_PDF_Project/knowledge_graph_skill.md)
   最新版 skill 规则
-- [knowledge_graph_skill.backup.md](/C:/Users/asus/Desktop/KG_PDF_Project/knowledge_graph_skill.backup.md)
-  skill 备份
 - [ppt](/C:/Users/asus/Desktop/KG_PDF_Project/ppt)
   待处理 PDF
 - [output](/C:/Users/asus/Desktop/KG_PDF_Project/output)

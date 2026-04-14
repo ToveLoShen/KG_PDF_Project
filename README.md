@@ -4,6 +4,8 @@
 
 目标是把课程 PPT / PDF 讲义直接转换为 **可适配 KT-SQEP 知识图谱工具** 的最终 XML，而不是先生成中间 schema 再二次转换。
 
+仅仅为了完成知识图谱作业而糊弄出一份skill与prompt来交给agent来完成gc的知识图谱。
+
 ## 项目内容
 
 - [knowledge_graph_skill.md](/C:/Users/asus/Desktop/KG_PDF_Project/knowledge_graph_skill.md)

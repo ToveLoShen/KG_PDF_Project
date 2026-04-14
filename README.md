@@ -204,6 +204,17 @@ output/
 
 ## 推荐工作流
 
+声明：本工作流目前只在 Codex 中验证过有效性。
+
+在放入 PDF 之前，先建立如下目录结构：
+
+```text
+KG_PDF_Template/
+├─ knowledge_graph_skill.md
+├─ ppt/
+└─ output/
+```
+
 1. 把 PDF 放入 `ppt/` 目录。
 2. 用标准提示词调用 skill。
 3. 检查 `output/` 中生成的 XML。
